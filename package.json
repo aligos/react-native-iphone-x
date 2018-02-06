@@ -1,0 +1,22 @@
+{
+  "name": "react-native-iphone-x",
+  "version": "1.0.0",
+  "description": "cek iPhoneX",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aligos/react-native-iphone-x.git"
+  },
+  "keywords": [
+    "iPhoneX"
+  ],
+  "author": "Rahmat Aligos",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aligos/react-native-iphone-x/issues"
+  },
+  "homepage": "https://github.com/aligos/react-native-iphone-x#readme"
+}
